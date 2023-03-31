@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 *{
-    margin:0;
-    padding: 0;
+    margin:0px;
+    padding: 0px;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
@@ -41,6 +41,8 @@ section{
     align-items: center;
     color:white;
     flex-direction: column;
+    margin: 0px;
+    padding: 0px;
 }
 #home p{
     position: absolute;
