@@ -2,7 +2,7 @@
 *{
     margin:0px;
     padding: 0px;
-    /* box-sizing: border-box; */
+    box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
 nav{
@@ -41,8 +41,6 @@ section{
     align-items: center;
     color:white;
     flex-direction: column;
-    margin: 0px;
-    padding: 0px;
 }
 #home p{
     position: absolute;
